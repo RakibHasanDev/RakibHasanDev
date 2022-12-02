@@ -10,14 +10,17 @@ I am a web developer with an amazing ability to develop websites that are both f
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RakibHasanDev" alt="RakibHasanDev" /></p>
 <br>
 
-Skills:  REACT /NODE JS / EXPRESS JS/ MONGODB / JS / HTML / CSS
+<p align="center"> <a href="https://github.com/RakibHasanDev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RakibHasanDev&row=1&column=6&theme=onedark" alt="RakibHasanDev" /></a> </p>
+
+- Skills:  REACT /NODE JS / EXPRESS JS/ MONGODB / JS / HTML / CSS
 - 🌱 I’m currently learning Node.js , Express.js 
 
-<div align="center">
+## Contact With Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RakibHasanDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rakibhasancse//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rakibkst17)  
-</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RakibHasanDev)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=RakibHasanDev)](https://github.com/ryo-ma/github-profile-trophy) -->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakibHasanDev)](https://github.com/anuraghazra/github-readme-stats)
 
