@@ -5,7 +5,7 @@
 
 I am a web developer with an amazing ability to develop websites that are both functional and aesthetically pleasing. I have a strong understanding of web standards and best practices, and I am passionate about creating websites that users will find easy to use and visually appealing. I am also proficient in a variety of programming languages and tools, and I have a proven track record of delivering successful projects on time and within budget.
 
-Skills:  REACT/NODE JS/EXPRESS JS/MONGODB / JS / HTML / CSS
+Skills:  REACT /NODE JS / EXPRESS JS/ MONGODB / JS / HTML / CSS
 
 - 🌱 I’m currently learning Node.js , Express.js 
 - 💬 Ask me about Web Development 
