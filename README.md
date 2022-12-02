@@ -12,10 +12,11 @@ I am a web developer with an amazing ability to develop websites that are both f
 
 <p align="center"> <a href="https://github.com/RakibHasanDev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RakibHasanDev&row=1&column=6&theme=onedark" alt="RakibHasanDev" /></a> </p>
 
+# <h1 align="center">Skills</h1>
 <h3 align="center"> Skills:  React.js / Node.js /Express.js / MongoDB / Java Script / HTML / CSS </h3>
 
 
-<!-- ## Contact With Me
+<!-- 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RakibHasanDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rakibhasancse//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rakibkst17)   -->
 
 
