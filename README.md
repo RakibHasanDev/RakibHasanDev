@@ -23,11 +23,14 @@ I am a web developer with an amazing ability to develop websites that are both f
 
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RakibHasanDev" alt="RakibHasanDev" /></p> -->
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakibHasanDev" alt="RakibHasanDev" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakibHasanDev" alt="RakibHasanDev" /></p> 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RakibHasanDev&show_icons=true&count_private=true" alt="RakibHasanDev" />
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakibHasanDev)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RakibHasanDev&show_icons=true&count_private=true)  
+
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RakibHasanDev&show_icons=true&count_private=true)   -->
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RakibHasanDev)  
 
