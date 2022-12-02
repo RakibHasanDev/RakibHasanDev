@@ -41,7 +41,7 @@ I am a MERN Stack developer with an amazing ability to develop websites that are
 
 
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RakibHasanDev&show_icons=true&count_private=true)   -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RakibHasanDev&show_icons=true&count_private=true)  
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RakibHasanDev)  
 
