@@ -24,7 +24,7 @@ I am a web developer with an amazing ability to develop websites that are both f
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RakibHasanDev" alt="RakibHasanDev" /></p> -->
 <br>
 
-# Uses Language
+# <h1 align="center">Uses Language</h1>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakibHasanDev" alt="RakibHasanDev" /></p> 
 
