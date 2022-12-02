@@ -38,10 +38,10 @@ I am a web developer with an amazing ability to develop websites that are both f
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RakibHasanDev&show_icons=true&count_private=true)   -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RakibHasanDev)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RakibHasanDev)  
 
 ![GitHub metrics](https://metrics.lecoq.io/RakibHasanDev)  
-
+ -->
 
 
 
