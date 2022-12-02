@@ -13,7 +13,7 @@ I am a web developer with an amazing ability to develop websites that are both f
 <p align="center"> <a href="https://github.com/RakibHasanDev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RakibHasanDev&row=1&column=6&theme=onedark" alt="RakibHasanDev" /></a> </p> <br>
 
 
-<h3 align="center"> Skills:  REACT /NODE JS / EXPRESS JS/ MONGODB / JS / HTML / CSS </h3>
+<h3 align="center"> Skills:  React.js /Node.js / Express.js/ mongodb / Java Script / HTML / CSS </h3>
 
 
 <!-- ## Contact With Me
@@ -25,7 +25,7 @@ I am a web developer with an amazing ability to develop websites that are both f
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RakibHasanDev" alt="RakibHasanDev" /></p> -->
 <br>
 
-# Uses Language
+# <h1 align="center"> Uses Language </h1>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakibHasanDev" alt="RakibHasanDev" /></p> 
 
