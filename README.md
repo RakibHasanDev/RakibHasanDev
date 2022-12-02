@@ -38,7 +38,12 @@ I am a MERN Stack developer with an amazing ability to develop websites that are
 <a href="https://www.facebook.com/rakibkst17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakibkst17" height="30" width="40" /></a>  
  <a href="https://twitter.com/MrMernDeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MrMernDevelope" height="30" width="40" /></a> 
 </p>  
-
+<h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
+<p align="left">  
+<a href="https://www.linkedin.com/in/rakibhasancse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RakibHasanDev" height="30" width="40" /></a>  
+<a href="https://www.facebook.com/rakibkst17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakibkst17" height="30" width="40" /></a>  
+ <a href="https://twitter.com/MrMernDeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MrMernDevelope" height="30" width="40" /></a> 
+</p>  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakibHasanDev)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
