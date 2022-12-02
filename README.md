@@ -1,19 +1,17 @@
 ![Mern Stack Developer](https://i.ibb.co/G298zWJ/cover.jpg)
 ![Profile views](https://gpvc.arturio.dev/RakibHasanDev)  
 
-# Hi 👋, I'm Rakib Hasan
-## Mern Stack Developer
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Rakib Hasan</h1> 
+<h3 align="center">A Passionate MERN Stack Developer From BD</h3>
 
 I am a web developer with an amazing ability to develop websites that are both functional and aesthetically pleasing. I have a strong understanding of web standards and best practices, and I am passionate about creating websites that users will find easy to use and visually appealing. I am also proficient in a variety of programming languages and tools, and I have a proven track record of delivering successful projects on time and within budget.
 
+<!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=RakibHasanDev)   -->
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RakibHasanDev" alt="RakibHasanDev" /></p>
+<br>
+
 Skills:  REACT /NODE JS / EXPRESS JS/ MONGODB / JS / HTML / CSS
-
 - 🌱 I’m currently learning Node.js , Express.js 
-- 💬 Ask me about Web Development 
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=RakibHasanDev)  
-
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RakibHasanDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rakibhasancse//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rakibkst17)  
 
