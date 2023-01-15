@@ -26,9 +26,9 @@ I am a MERN Stack developer with an amazing ability to develop websites that are
 
 # <h1 align="center"> Uses Language </h1>
 
-<p align="center"><img align="center" src="https://github-readme-stats.sigma-five.vercel.app/api/top-langs/?username=RakibHasanDev" alt="RakibHasanDev" /></p> 
+<p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RakibHasanDev" alt="RakibHasanDev" /></p> 
 
-<p align="center"><img align="center" src="https://github-readme-stats.sigma-five.vercel.app/api?username=RakibHasanDev&show_icons=true&count_private=true" alt="RakibHasanDev" />
+<p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RakibHasanDev&show_icons=true&count_private=true" alt="RakibHasanDev" />
 
 
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
