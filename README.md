@@ -1,5 +1,5 @@
 ![Mern Stack Developer](https://i.ibb.co/hyKZQHh/final-cover.jpg)
-![Profile views](https://gpvc.arturio.dev/RakibHasanDev)  
+![Profile views](https://komarev.com/ghpvc/?RakibHasanDev=your-github-RakibHasanDev)  
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Rakib Hasan</h1> 
 <h2 align="center">A Passionate MERN Stack Developer From BD</h2>
 
