@@ -1,9 +1,7 @@
 ![Mern Stack Developer](https://i.ibb.co/hyKZQHh/final-cover.jpg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RakibHasanDev&label=Profile%20views&color=0e75b6&style=flat" alt="RakibHasanDev" /> </p>
 <h1 align="center">Hi 👋, I'm Rakib Hasan</h1>
 <h2 align="center">A Passionate MERN Stack Developer From BD</h2>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RakibHasanDev&label=Profile%20views&color=0e75b6&style=flat" alt="RakibHasanDev" /> </p>
 
 I am a MERN Stack developer with an amazing ability to develop websites that are both functional and aesthetically pleasing. I have a strong understanding of web standards and best practices, and I am passionate about creating websites that users will find easy to use and visually appealing. I am also proficient in a variety of programming languages and tools, and I have a proven track record of delivering successful projects on time and within budget.
 
