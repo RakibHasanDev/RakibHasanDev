@@ -1,6 +1,6 @@
 ![Mern Stack Developer](https://i.ibb.co/hyKZQHh/final-cover.jpg)
 ![Profile views](https://gpvc.arturio.dev/RakibHasanDev)  
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Rakib Hasan</h1> 
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/RakibHasanDev/RakibHasanDev/main/hi.gif" width="50px" height="50px">, I'm Rakib Hasan</h1> 
 <h2 align="center">A Passionate MERN Stack Developer From BD</h2>
 
 I am a MERN Stack developer with an amazing ability to develop websites that are both functional and aesthetically pleasing. I have a strong understanding of web standards and best practices, and I am passionate about creating websites that users will find easy to use and visually appealing. I am also proficient in a variety of programming languages and tools, and I have a proven track record of delivering successful projects on time and within budget.
